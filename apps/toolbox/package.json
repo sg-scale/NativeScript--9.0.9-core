@@ -17,6 +17,6 @@
     "@nativescript/visionos": "~9.0.0",
     "@nativescript/vite": "file:../../dist/packages/vite",
     "@nativescript/webpack": "file:../../dist/packages/webpack5",
-    "typescript": "~5.8.0"
+    "typescript": "~5.9.3"
   }
 }
