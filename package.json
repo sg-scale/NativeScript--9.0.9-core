@@ -107,7 +107,7 @@
 		"vite": "7.2.2",
 		"vite-plugin-solid": "^2.11.10",
 		"vite-plugin-static-copy": "^3.1.4",
-		"vitest": "^3.2.4",
+		"vitest": "^3.2.7",
 		"vue-loader": "^15.0.0 <= 15.9.8",
 		"webpack": "^5.30.0 <= 5.50.0 || ^5.51.2",
 		"webpack-bundle-analyzer": "^4.0.0",
